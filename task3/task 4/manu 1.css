@@ -1,0 +1,16 @@
+h1{
+    background-color: pink;
+}
+h3{
+    background-color: brown;
+}
+p{
+    background-color: chartreuse;
+}
+  table, th, td {
+    border: 1px solid black;
+  }
+   table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
